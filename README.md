@@ -1,6 +1,8 @@
 # trace_graph_modeling
 This project is used for the modeling of graphs from LTTNG trace data and can be used for root cause analysis purposes. 
-Before running the code make suer you have the modules installed such as graphviz(https://graphviz.org/) and networkx(https://networkx.github.io/).
+
+Before running the code make sure you have the modules installed such as graphviz(https://graphviz.org/) and networkx(https://networkx.github.io/).
+
 To run the graph_plot_final which is used for simply producing a graph that presents the dependency of each child to its parent use "python3 graph_plot.py mini.txt --threshold 0.2" this creates a dependency graph using the given data file and removes edges where there dependency is less than the threshold which in this case is 20%.
 
 To run the MergeDepGraph which merges two sets of given data into a singular graph with the dependency of each child to its parent use "python3 MergeDepGraph.py mini.txt mini2.txt".
