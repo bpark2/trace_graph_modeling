@@ -1,0 +1,11 @@
+------------------ 
+mini.txt Merged: 
+item: 337, name: sys:fcntl, size: 58, parent: 334, count: 10, max: 11, min: 1, path:sys:fcntl-[thread apache2]
+item: 375, name: sys:mmap, size: 168, parent: 334, count: 5, max: 37, min: 30, path:sys:mmap-[thread apache2]
+item: 335, name: no stack, size: 3309, parent: 334, count: 15, max: 619, min: 23, path:no stack-[thread apache2]
+item: 336, name: sys:getsockname, size: 62, parent: 334, count: 10, max: 15, min: 1, path:sys:getsockname-[thread apache2]
+item: 338, name: sys:read, size: 208, parent: 334, count: 10, max: 37, min: 6, path:sys:read-[thread apache2]
+item: 341, name: sys:newfstat, size: 36, parent: 334, count: 10, max: 7, min: 1, path:sys:newfstat-[thread apache2]
+item: 340, name: sys:open, size: 121, parent: 334, count: 10, max: 22, min: 3, path:sys:open-[thread apache2]
+item: 339, name: sys:newstat, size: 102, parent: 334, count: 10, max: 19, min: 3, path:sys:newstat-[thread apache2]
+item: 334, name: [thread apache2], size: 4104, parent: 0, count: 10, max: 783, min: 78, path:[thread apache2]
