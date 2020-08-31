@@ -1,0 +1,91 @@
+---------------------------
+execution 0: 
+item: 337, name: sys:fcntl, size: 2, parent: 334
+item: 335, name: No Stack, size: 76, parent: 334
+item: 336, name: sys:getsockname, size: 2, parent: 334
+item: 338, name: sys:read, size: 7, parent: 334
+item: 341, name: sys:newfstat, size: 2, parent: 334
+item: 340, name: sys:open, size: 5, parent: 334
+item: 339, name: sys:newstat, size: 3, parent: 334
+item: 334, name: [thread apache2], size: 101, parent: 0
+execution 1: 
+item: 337, name: sys:fcntl, size: 2, parent: 334
+item: 335, name: No Stack, size: 76, parent: 334
+item: 336, name: sys:getsockname, size: 2, parent: 334
+item: 338, name: sys:read, size: 7, parent: 334
+item: 341, name: sys:newfstat, size: 2, parent: 334
+item: 340, name: sys:open, size: 5, parent: 334
+item: 339, name: sys:newstat, size: 3, parent: 334
+item: 334, name: [thread apache2], size: 101, parent: 0
+execution 2: 
+item: 337, name: sys:fcntl, size: 2, parent: 334
+item: 335, name: No Stack, size: 76, parent: 334
+item: 336, name: sys:getsockname, size: 2, parent: 334
+item: 338, name: sys:read, size: 8, parent: 334
+item: 341, name: sys:newfstat, size: 1, parent: 334
+item: 340, name: sys:open, size: 4, parent: 334
+item: 339, name: sys:newstat, size: 3, parent: 334
+item: 334, name: [thread apache2], size: 99, parent: 0
+execution 3: 
+item: 337, name: sys:fcntl, size: 2, parent: 334
+item: 335, name: No Stack, size: 68, parent: 334
+item: 336, name: sys:getsockname, size: 1, parent: 334
+item: 338, name: sys:read, size: 8, parent: 334
+item: 341, name: sys:newfstat, size: 1, parent: 334
+item: 340, name: sys:open, size: 4, parent: 334
+item: 339, name: sys:newstat, size: 3, parent: 334
+item: 334, name: [thread apache2], size: 92, parent: 0
+execution 4: 
+item: 337, name: sys:fcntl, size: 1, parent: 334
+item: 335, name: No Stack, size: 51, parent: 334
+item: 336, name: sys:getsockname, size: 1, parent: 334
+item: 338, name: sys:read, size: 6, parent: 334
+item: 341, name: sys:newfstat, size: 1, parent: 334
+item: 340, name: sys:open, size: 3, parent: 334
+item: 339, name: sys:newstat, size: 3, parent: 334
+item: 334, name: [thread apache2], size: 69, parent: 0
+execution 5: 
+item: 337, name: sys:fcntl, size: 1, parent: 334
+item: 335, name: No Stack, size: 85, parent: 334
+item: 336, name: sys:getsockname, size: 2, parent: 334
+item: 338, name: sys:read, size: 6, parent: 334
+item: 341, name: sys:newfstat, size: 2, parent: 334
+item: 340, name: sys:open, size: 6, parent: 334
+item: 339, name: sys:newstat, size: 5, parent: 334
+item: 334, name: [thread apache2], size: 110, parent: 0
+execution 6: 
+item: 337, name: sys:fcntl, size: 2, parent: 334
+item: 335, name: No Stack, size: 75, parent: 334
+item: 336, name: sys:getsockname, size: 2, parent: 334
+item: 338, name: sys:read, size: 7, parent: 334
+item: 341, name: sys:newfstat, size: 1, parent: 334
+item: 340, name: sys:open, size: 4, parent: 334
+item: 339, name: sys:newstat, size: 5, parent: 334
+item: 334, name: [thread apache2], size: 99, parent: 0
+execution 7: 
+item: 337, name: sys:fcntl, size: 2, parent: 334
+item: 335, name: No Stack, size: 59, parent: 334
+item: 336, name: sys:getsockname, size: 2, parent: 334
+item: 338, name: sys:read, size: 6, parent: 334
+item: 341, name: sys:newfstat, size: 1, parent: 334
+item: 340, name: sys:open, size: 4, parent: 334
+item: 339, name: sys:newstat, size: 3, parent: 334
+item: 334, name: [thread apache2], size: 79, parent: 0
+execution 8: 
+item: 337, name: sys:fcntl, size: 2, parent: 334
+item: 335, name: No Stack, size: 68, parent: 334
+item: 336, name: sys:getsockname, size: 1, parent: 334
+item: 338, name: sys:read, size: 6, parent: 334
+item: 341, name: sys:newfstat, size: 1, parent: 334
+item: 340, name: sys:open, size: 3, parent: 334
+item: 339, name: sys:newstat, size: 3, parent: 334
+item: 334, name: [thread apache2], size: 87, parent: 0
+execution 9: 
+item: 337, name: sys:fcntl, size: 2, parent: 334
+item: 335, name: No Stack, size: 63, parent: 334
+item: 336, name: sys:getsockname, size: 1, parent: 334
+item: 338, name: sys:read, size: 7, parent: 334
+item: 341, name: sys:newfstat, size: 1, parent: 334
+item: 340, name: sys:open, size: 4, parent: 334
+item: 339, name: sys:newstat, size: 3, parent: 334
+item: 334, name: [thread apache2], size: 84, parent: 0
